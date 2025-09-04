@@ -1,0 +1,10 @@
+{
+    "build": {
+        "buildCommand": "echo 'hi'",
+        "builder": "nixpacks"
+    },
+    "deploy": {
+        "restartPolicyMaxRetries": 3,
+        "restartPolicyType": "on-failure"
+    }
+}
