@@ -1,5 +1,5 @@
 function main() {
-  console.log("hieunhangia")
+  console.log("")
 }
 
 main()
